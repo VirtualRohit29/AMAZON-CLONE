@@ -181,8 +181,8 @@ span {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color:rgb(240, 202, 208) ;
-    
+    background-color: rgb(240, 202, 208);
+
 }
 
 
@@ -195,19 +195,22 @@ span {
     margin: 15px;
 
 }
-.box-img{
-height: 300px;
-background-size: cover;
-margin-top: 1rem;
-margin-bottom: 1rem;
+
+.box-img {
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 
 }
-.box-content{
+
+.box-content {
     margin-left: 15px;
     margin-right: 15px;
-   
+
 }
-.box-content h2{
+
+.box-content h2 {
     font-size: 21px;
 }
 
@@ -215,9 +218,9 @@ margin-bottom: 1rem;
     color: #007185;
 }
 
-.img1{
-    height:172.3px;
-    
+.img1 {
+    height: 172.3px;
+
     background-size: cover;
 }
 
@@ -226,8 +229,8 @@ margin-bottom: 1rem;
     justify-content: space-evenly;
     align-items: center;
     margin-top: 10px;
-   
-   
+
+
 }
 
 .image-container {
@@ -238,57 +241,64 @@ margin-bottom: 1rem;
     width: 100px;
     height: 100px;
     background-size: cover;
-    
+
 }
 
 .image-name {
     margin-top: 4px;
     font-size: 16px;
 }
-.set{
+
+.set {
     padding-top: 30px;
 }
-.set2{
+
+.set2 {
     margin-top: 8px;
 }
 
 /** footer **/
-.footer{
+.footer {
     margin-top: 15px;
-} 
-.foot-panel{
+}
+
+.foot-panel {
     background-color: #37475a;
     color: white;
     height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-font-size: 0.85rem;
+    font-size: 0.85rem;
 }
 
-.foot-panel2{
+.foot-panel2 {
     background-color: #222f3d;
     color: white;
     height: 500px;
     display: flex;
     justify-content: space-evenly;
-    
+
 }
-u{
+
+u {
     margin-top: 50px;
 }
-u a{
-display: block;
-font-size: 0.95rem;margin-top: 10px;
-color: #dddddd;
+
+u a {
+    display: block;
+    font-size: 0.95rem;
+    margin-top: 10px;
+    color: #dddddd;
 
 
 }
-u p{
+
+u p {
     font-size: 1.5rem;
 }
 
-.foot-panel3{
+.foot-panel3 {
     background-color: #222f3d;
     color: white;
     border-top: 0.6px solid white;
@@ -296,16 +306,34 @@ u p{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 
 }
-.logo{
+
+.logo {
     background-image: url(amazon1.png);
     background-size: cover;
     height: 50px;
     width: 100px;
 
-    
+
 }
 
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
 
+}
+
+.pages {
+
+    padding-top: 25px;
+}
+
+.copyright {
+
+    margin-top: 7px;
+}
