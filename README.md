@@ -1,2 +1,2 @@
 # my-project
- clone if amazon app
+ clone of amazon app
